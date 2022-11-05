@@ -18,8 +18,8 @@ document.addEventListener('click', e => {
             `
         }).then((result) => {
             if (result.isConfirmed) {
-                let url = "https://api.whatsapp.com/send?phone=+51923644544&text=" + "Si acepto mi amor 🥰" + "%0A";
-                window.open(url, "Enviar");
+                let url ="https://www.youtube.com/watch?v=JDuYh0t4z-w";
+               window.open(url, "Enviar");
             }
         })
     }
